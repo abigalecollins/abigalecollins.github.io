@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abigale Collins / Site Title"
+title                    : "Abigale Collins"
 title_separator          : "-"
 name                     : &name "Abigale Collins"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Abigale Collins"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Assistant. Computational Neuroscience. Social Psychology. Neuroimaging"
   location         : "Virginia"
-  employer         : "Red Brick University"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "none@example.org" 
 
