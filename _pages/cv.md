@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Brain and Behavioral Sciences, Purdue University, 2020
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Present: Post-Baccalaureate Research Assistant
+  * Virginia Tech
+  * Duties includes: fMRI Scanning, participant recruitment
+  * Supervisor: Drs. Brooks Casas and Pearl Chiu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019-Spring 2020: Undergraduate Research Assistant
+  * Purdue University
+  * Duties included: participant recruitment
+  * Supervisor: Dr. Susan South
+  * Honors Thesis: Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Fall 2019-Spring 2020: Undergraduate Research Assistant
+  * Purdue University
+  * Duties included: participant lab running
+  * Supervisor: Dr. Ximena Arriaga
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* fMRI Scanning 500+ hours
+* Clinical
+  * SCID-5-RV
+  * SCID-5-PD
+  * TOPF
+* Programming
+  * R Programming
+  * Python
+  * MATLAB
 
 Publications
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Purdue University Neuroscience Society (Secretary)
