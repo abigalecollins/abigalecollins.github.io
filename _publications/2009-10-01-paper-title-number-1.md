@@ -2,7 +2,7 @@
 title: "Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face"
 collection: publications
 category: poster
-permalink: /publication/2020-04-25-Effect-of-Avoidant-Attachment-on-Emotional-Reactivity-to-Partner's-Face
+permalink: /publications/2020-04-25-Effect-of-Avoidant-Attachment-on-Emotional-Reactivity-to-Partner's-Face
 excerpt: 'This paper is about the number 1.'
 date: 2020-04-25
 venue: 'Purdue Psychology Undergraduate Research Conference'
