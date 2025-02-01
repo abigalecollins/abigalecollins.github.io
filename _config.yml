@@ -21,7 +21,7 @@ repository               : "abigalecollins.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.jpg"
   name             : "Abigale Collins"
   pronouns         : "she/her"  
   bio              : "Research Assistant. Computational Neuroscience. Social Psychology. Neuroimaging"
