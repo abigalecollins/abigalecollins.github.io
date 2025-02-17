@@ -1,7 +1,7 @@
 ---
 title: "Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face"
-collection: theses
-category: thesis
+collection: thesis
+category: theses
 permalink: /publication/2020-04-25-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04-25
