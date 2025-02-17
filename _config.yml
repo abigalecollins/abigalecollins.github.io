@@ -22,10 +22,10 @@ repository               : "abigalecollins.github.io"
 author:
   # Biographic information
   avatar           : "image.jpg"
-  name             : "Abigale Collins"
+  name             : "Abigale (Grace) Collins"
   pronouns         : "she/her"  
   bio              : "Research Assistant."
-  location         : "Virginia"
+  location         : "Roanoke, Virginia"
   employer         : "Virginia Tech"
   uri              : # URL
   email            : "abigale.collins98@gmail.com" 
@@ -82,6 +82,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Posters'
+  theses:
+    title: 'Thesis' 
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
