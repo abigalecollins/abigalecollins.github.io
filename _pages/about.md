@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Profile
+### About
 Hello! I am currently a research assistant in the labs of Drs. Brooks Casas and Pearl Chiu at the Fralin Biomedical Research Institute at Virginia Tech Carilion. 
 
 ### Interests
