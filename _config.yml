@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "AC"
 title_separator          : "-"
 name                     : &name "Abigale Collins"
 description              : &description "personal description"
