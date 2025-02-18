@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ---
-B.S. in Brain and Behavioral Sciences, Purdue University, 2020
+B.S. in Brain and Behavioral Sciences, Purdue University, 2020  
 *Honors Thesis: Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face*
 
 Research Experience
 ---
-**Post-Baccalaureate Research Assistant** (Present)
-*Fralin Biomedical Research Institute & Virginia Tech*, Roanoke, VA
+**Post-Baccalaureate Research Assistant** (Present)   
+*Fralin Biomedical Research Institute & Virginia Tech*, Roanoke, VA   
 Casas and Chiu Laboratories (PIs Brooks Casas, Ph.D. and Pearl Chiu Ph.D.)
  * Involved in several projects using decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at risk-youth.
 * General responsibilities:  fMRI scanning, participant recruitment, IRB processes
 
-**Undergraduate Research Assistant** (Fall 2019-Spring 2020)
-*Purdue University*, West Lafayette, IN
+**Undergraduate Research Assistant** (Fall 2019-Spring 2020)  
+*Purdue University*, West Lafayette, IN  
 Personality, Psychopathology, and Romantic Relationship Laboratory (PI: Susan South, Ph.D.)
 * Duties included: participant recruitment
 * Honors Thesis: Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face
 
-**Undergraduate Research Assistant** (Fall 2019-Spring 2020) 
-*Purdue University*, West Lafayette, IN
+**Undergraduate Research Assistant** (Fall 2019-Spring 2020)   
+*Purdue University*, West Lafayette, IN  
 Analyzing Relationships and Close Connections Laboratory (PI: Ximena Arriaga, Ph.D.)
 * Duties included: participant lab running
 * Supervisor: Dr. Ximena Arriaga
