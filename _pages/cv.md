@@ -43,9 +43,6 @@ Skills
 * **Software and Applications**: SPM12 (Working), xjView (Working), SPSS (Working), REDCap (Advanced), Qualtrics (Intermediate), Ripple Science (Advanced), MS Office, Canva
 * **Certifications and Training**: CITI training Human Subjects Certified, Enviromental Health and Safety, Adult Mental Health First Aid Training (*National Council for Mental Wellbeing*), Open Science 1010 Workshop (*Neuromatch Academy*)
   
-Honors Thesis
----
-Collins, A. G. (2020) Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face. Purdue University.
 
 Publications and Theses
 ======
