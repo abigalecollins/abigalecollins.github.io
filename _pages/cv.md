@@ -19,20 +19,21 @@ Research Experience
 **Post-Baccalaureate Research Assistant** (Present)   
 *Fralin Biomedical Research Institute & Virginia Tech*, Roanoke, VA   
 Casas and Chiu Laboratories (PIs Brooks Casas, Ph.D. and Pearl Chiu Ph.D.)
- * Involved in several projects using decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at risk-youth.
+ * Research focus: Use of decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at risk-youth.
 * General responsibilities:  fMRI scanning, participant recruitment, IRB processes
 
 **Undergraduate Research Assistant** (Fall 2019-Spring 2020)  
 *Purdue University*, West Lafayette, IN  
 Personality, Psychopathology, and Romantic Relationship Laboratory (PI: Susan South, Ph.D.)
-* Duties included: participant recruitment
+* Research focus: Investigating the interplay between romantic relationships, personality, and psychopathology including how romantic relationships may impact the etiology, development, and course of psychopathology as well as the role personality may play in relationship dysfunction.
+* General responsibilities: participant recruitment
 * Honors Thesis: Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face
 
 **Undergraduate Research Assistant** (Fall 2019-Spring 2020)   
 *Purdue University*, West Lafayette, IN  
 Analyzing Relationships and Close Connections Laboratory (PI: Ximena Arriaga, Ph.D.)
-* Duties included: participant lab running
-* Supervisor: Dr. Ximena Arriaga
+* Research focus: The rewards and challenges of close relationship in the context of adult attachment security, intimate partner violence, and relational uncertainty.
+* General responsibilities: participant lab running 
  
 Skills
 ---
@@ -45,6 +46,12 @@ Skills
 Honors Thesis
 ---
 Collins, A. G. (2020) Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face. Purdue University.
+
+Publications and Theses
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Poster Presentations
 ---
