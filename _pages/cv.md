@@ -18,7 +18,7 @@ Research Experience
 ---
 **Post-Baccalaureate Research Assistant** (Present)   
 *Fralin Biomedical Research Institute & Virginia Tech*, Roanoke, VA   
-Casas and Chiu Laboratories (PIs Brooks Casas, Ph.D. and Pearl Chiu Ph.D.)
+Casas and Chiu Laboratories (PIs: Brooks Casas, Ph.D. and Pearl Chiu Ph.D.)
  * Research focus: Use of decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at risk-youth.
 * General responsibilities:  fMRI scanning, participant recruitment, IRB processes
 
@@ -45,7 +45,7 @@ Skills
   
 
 Publications and Theses
-======
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -63,6 +63,6 @@ Service and leadership
 
 Honors and Awards
 ---
-* Purdue University Presidential Scholarship
-* Purdue University Dean's List
-* Purdue University Honors College
+* Purdue University Presidential Scholarship (2016-2020)
+* Purdue University Dean's List (2016-2020)
+* Purdue University Honors College (2016-2020)
