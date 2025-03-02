@@ -19,21 +19,21 @@ Research Experience
 **Post-Baccalaureate Research Assistant** (Present)   
 *Fralin Biomedical Research Institute & Virginia Tech*, Roanoke, VA   
 Casas and Chiu Laboratories (PIs: Brooks Casas, Ph.D. and Pearl Chiu Ph.D.)
- * Research focus: Use of decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at risk-youth.
-* General responsibilities:  fMRI scanning, participant recruitment, IRB processes
+ * Research focus: Use of decision neuroscience and computational psychiatry methods to identify brain substrates of decision-making in and out of social contexts within various populations including individuals with borderline personality disorder, depression, anxiety, post-traumatic stress disorder, and at-risk youth.
+* General responsibilities: recruit participants, conduct in-lab and virtual particpiant sessions sessions, conduct preliminary data analysis, administer clinical assessments, operate fMRI scanning, manage IRB protocols, develop REDCap projects, and train staff to support neuroimaging and clinical research.
 
 **Undergraduate Research Assistant** (Fall 2019-Spring 2020)  
 *Purdue University*, West Lafayette, IN  
 Personality, Psychopathology, and Romantic Relationship Laboratory (PI: Susan South, Ph.D.)
 * Research focus: Investigating the interplay between romantic relationships, personality, and psychopathology including how romantic relationships may impact the etiology, development, and course of psychopathology as well as the role personality may play in relationship dysfunction.
-* General responsibilities: participant recruitment
+* General responsibilities: recruited and ran participants, coded dyadic interactions, conducted literature reviews, trained research assistants, and contributed to lab discussions on research project and lab functioning.
 * Honors Thesis: Effect of Avoidant Attachment on Emotional Reactivity to Partner's Face
 
 **Undergraduate Research Assistant** (Fall 2019-Spring 2020)   
 *Purdue University*, West Lafayette, IN  
 Analyzing Relationships and Close Connections Laboratory (PI: Ximena Arriaga, Ph.D.)
 * Research focus: The rewards and challenges of close relationship in the context of adult attachment security, intimate partner violence, and relational uncertainty.
-* General responsibilities: participant lab running 
+* General responsibilities: coordinated in-lab sessions, distributed Qualtrics surveys remotely
  
 Skills
 ---
